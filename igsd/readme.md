@@ -4,7 +4,7 @@ This repository contains the implementation of IGSD: A new algorithm for Subgrou
 * Subgroup discovery analysis of treatments patterns in lung cancer patients. Daniel Gómez Bravo, Aaron García, Guillermo Vigueras, Belén Ríos-Sánchez, Belén        Otero, Roberto Hernández, María Torrente, Ernestina Menasalvas, Mariano Provencio, Alejandro Rodríguez González. July 2022, IEEE 35th International Symposium on   Computer-Based Medical Systems (CBMS).
 * Clustering-based Pattern Discovery in Lung Cancer Treatments. Daniel Gómez-Bravo, Aaron García, Guillermo Vigueras, Belén Ríos-Sánchez, Alejandra Pérez-García,    Vanessa Ospina, María Torrente, Ernestina Menasalvas, Mariano Provencio, Alejandro Rodríguez González. June 2023, IEEE 36th International Symposium on Computer-Based Medical Systems (CBMS).
 * Information Gained Subgroup Discovery. Daniel Gómez-Bravo, Aaron García, Guillermo  Vigueras, Belén Ríos-Sánchez, Mariano Provencio, Alejandro Rodríguez           González. July 2023, Preprint.
-* Subgroup Discovery Analysis of Treatment Patterns in Lung Cancer Patients. Daniel Gómez Bravo, Aaron García, Guillermo Vigueras, Belén Ríos-Sánchez, Alejandra     Pérez-García, Vanessa Ospina, María Torrente, Ernestina Menasalvas, Mariano Provencio, Alejandro Rodríguez González October 2023. Preprint.
+* Subgroup Discovery Analysis of Treatment Patterns in Lung Cancer Patients. Daniel Gómez Bravo, Aaron García, Guillermo Vigueras, Belén Ríos-Sánchez, Alejandra     Pérez-García, Vanessa Ospina, María Torrente, Ernestina Menasalvas, Mariano Provencio, Alejandro Rodríguez González October 2023. Preprint.
 
 Moreover, the structure of the repository is at follows:
 
